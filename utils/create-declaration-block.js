@@ -1,4 +1,4 @@
-import createReactDOMStyle from 'react-native-web/dist/exports/StyleSheet/createReactDOMStyle';
+import createReactDOMStyle from 'react-native-web/dist/exports/StyleSheet/compiler/createReactDOMStyle';
 import prefixStyles from 'react-native-web/dist/modules/prefixStyles';
 import hyphenateStyleName from './hyphenate-style-name';
 
